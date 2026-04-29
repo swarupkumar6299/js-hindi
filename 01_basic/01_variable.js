@@ -10,4 +10,9 @@ accountPassword = "21212121"
 accountCity = "Bengaluru"
 
 console.log(accountId);
-console.table([accountEmail,accountId,accountPassword,accountCity])
+console.table([accountEmail,accountId,accountPassword,accountCity]) 
+//****************************operation******************
+let value = 3
+let negValue = -value
+console.log(2+2);
+console.log(2-2) 
